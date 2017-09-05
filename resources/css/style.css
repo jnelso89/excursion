@@ -1,6 +1,6 @@
 body {
   font-family: Verdana;
-  background-color; black;
+  background-color: black;
   text-align: center;
   color: gray;
 }
@@ -8,4 +8,22 @@ body {
 .link {
   color: aquamarine;
   font-size: 16px;
+}
+
+.header {
+  color: white;
+}
+
+.copy {
+  text-align: right;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
 }
